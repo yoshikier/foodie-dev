@@ -1,5 +1,6 @@
 *.jar
 *.class
+*.DS_Store
 foodie-api/target/*
 foodie-common/target/*
 foodie-mapper/target/*
