@@ -6,3 +6,4 @@ foodie-common/target/*
 foodie-mapper/target/*
 foodie-pojo/target/*
 foodie-service/target/*
+tmp/*
