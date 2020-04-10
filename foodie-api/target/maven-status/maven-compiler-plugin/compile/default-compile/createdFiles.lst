@@ -1,9 +1,0 @@
-com/yoshiker/controller/IndexController.class
-com/yoshiker/Application.class
-com/yoshiker/controller/PassportController.class
-com/yoshiker/config/CorsConfig.class
-com/yoshiker/controller/HelloController.class
-com/yoshiker/controller/ItemsController.class
-com/yoshiker/aspect/ServiceLogAspect.class
-com/yoshiker/config/Swagger2.class
-com/yoshiker/controller/StuController.class
